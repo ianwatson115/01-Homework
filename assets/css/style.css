@@ -64,23 +64,24 @@ body {
     margin: 5rem 29rem 10rem 29rem;
     padding: 3rem 3rem 3rem 3rem;
     font-size: 30px;
-    border-bottom: slategray;
+    border-bottom: 2px slategray;
 }
 
 .para {
     float: right;
     text-align: left;
     background-color: #ffffff;
-    font-size: 18px;
+    font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
-    padding: 0 0 0 0;
+    padding: 3.5rem 0 0 0;
+    line-height: 28px;
+    border-top: 3px slategray;
 }
 
 .image1 {
     float: left;
-    width: 200px;
-    height: 200px;
+    width: 300px;
     padding: 0 1rem 0 0;
 }
 
