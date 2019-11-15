@@ -1,0 +1,48 @@
+div.contact-header {
+    float: left;
+    color: rgb(87, 0, 128);
+    background-color: white;
+    margin: 5rem 29rem 10rem 29rem;
+    padding: 3rem 3rem 5rem 3rem;
+    font-size: 30px;
+    width: 960px;
+    text-decoration:slategray;
+}
+
+.contact-form {
+    text-align: left;
+    background-color: #ffffff;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    line-height: 28px;
+}
+
+#name {
+    width: 100%;
+    line-height: 28px;
+}
+
+#email {
+    width: 100%;
+    line-height: 28px;
+}
+
+#message {
+    width: 100%;
+    line-height: 28px;
+    height: 200px;
+}
+
+input[type=submit] {
+    background-color: rgb(87, 0, 128);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+input[type=submit]:hover {
+    background-color: rgb(46, 1, 66);
+  }
