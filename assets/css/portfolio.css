@@ -1,3 +1,38 @@
-.card {
+.portfolio {
+    margin: 5rem 29rem 10rem 29rem;
+    padding: 3rem 3rem 3rem 3rem;
+    background-color: #ffffff;
+    color: rgb(87, 0, 128);
+    font-size: 30px;
+
+}
+
+.card1 {
+    float: left;
+    position: relative;
+    margin-left: 29rem;
+    width: 250px;
+}
+
+.card2 {
+    float: right;
+    position: relative;
+    margin-right: 29rem;
+    width: 250px;
+}
+
+
+.container {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    line-height: 42px;
+    background-color: rgb(87, 0, 128);
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     
 }
