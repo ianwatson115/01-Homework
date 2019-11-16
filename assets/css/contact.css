@@ -5,8 +5,13 @@ div.contact-header {
     margin: 5rem 29rem 10rem 29rem;
     padding: 3rem 3rem 5rem 3rem;
     font-size: 30px;
-    width: 960px;
-    text-decoration:slategray;
+    width: 877px;
+    text-decoration-line:slategray;
+}
+
+body {
+    padding: 0;
+    margin: 0;
 }
 
 .contact-form {
@@ -15,7 +20,8 @@ div.contact-header {
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
-    line-height: 28px;
+    line-height: 30px;
+    padding: 3rem 3rem 3rem 0;
 }
 
 #name {
@@ -46,3 +52,4 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: rgb(46, 1, 66);
   }
+

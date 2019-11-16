@@ -23,7 +23,7 @@
     display: table;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 900;
-    padding: 15.1px 15px 15px 15px;
+    padding: 15px 15px 15px 15px;
     color: white;
 }
 
@@ -52,7 +52,7 @@ ul > li:not(:last-child) {
 }
 
 body {
-    background-color: lightgrey;
+    background-image: url('../images/triangle-mosaic.png');
     padding: 0;
     margin: 0;
 }
