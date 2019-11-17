@@ -2,23 +2,23 @@
     margin: 5rem 29rem 10rem 29rem;
     padding: 3rem 3rem 3rem 3rem;
     background-color: #ffffff;
+    height: 1500px;
     color: rgb(87, 0, 128);
     font-size: 30px;
+}
 
+.row {
+    padding: 5rem;
 }
 
 .card1 {
     float: left;
     position: relative;
-    margin-left: 29rem;
-    width: 250px;
 }
 
 .card2 {
     float: right;
     position: relative;
-    margin-right: 29rem;
-    width: 250px;
 }
 
 
