@@ -2,23 +2,25 @@
     margin: 5rem 29rem 10rem 29rem;
     padding: 3rem 3rem 3rem 3rem;
     background-color: #ffffff;
-    height: 1500px;
+    height: 800px;
     color: rgb(87, 0, 128);
     font-size: 30px;
 }
 
 .row {
-    padding: 5rem;
+    padding: 7rem;
 }
 
 .card1 {
     float: left;
     position: relative;
+    
 }
 
 .card2 {
     float: right;
     position: relative;
+    
 }
 
 
@@ -34,5 +36,13 @@
     top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
-    
 }
+
+.footer{
+    bottom: 0;
+    color: #ffffff;
+    height: 50px;
+    border-top: 8px solid rgb(87, 0, 128);
+    background-color: #666666;
+    text-align: center;
+} 
